@@ -127,8 +127,8 @@ VEHICLE-PROJECT/
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/vehicle-project.git
-cd vehicle-project
+git clone https://github.com/23238-lgtm/vehicle.git
+cd vehicle
 
 # Create and activate environment
 conda create -n vehicle python=3.10 -y
@@ -204,8 +204,8 @@ Watch the demo here: [Click to Watch](https://youtu.be/5e-8gAVst2k)
 
 
 ## 🙋‍♂️ Author
-Himanshu Singh
+Pratham Jain
 MLOps | FastAPI | ML Engineer
-📧 Email: himanshu.iiitu2027@gmail.com
+📧 Email: prathamj560@gmail.com
 
 
